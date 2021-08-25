@@ -1,0 +1,3 @@
+com\test\pages\HomePage.class
+com\test\pages\OpenAccountPage.class
+com\test\tests\OpenAccountTest.class
